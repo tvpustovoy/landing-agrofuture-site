@@ -1,3 +1,3 @@
 # landing-agrofuture-site
 
-Папка jblank из %SITE_ROOT%/templates/jblank
+Вся папка Джумлы + БД (в этой же папке "u0081082_agrof.sql")
